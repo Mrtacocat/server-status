@@ -2,4 +2,4 @@
 # Examples:
 # play.example.com
 # play.example.com:25565
-Maine1.exaroton.me
+play.example.com
