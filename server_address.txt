@@ -1,0 +1,5 @@
+# Put your Tekkit 2 server address on the first non-empty line.
+# Examples:
+# play.example.com
+# play.example.com:25565
+Maine1.exaroton.me
